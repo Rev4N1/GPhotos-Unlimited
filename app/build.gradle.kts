@@ -5,7 +5,7 @@ plugins {
 android {
     namespace = "com.rev4n.unlimitedphotos"
     compileSdk = 37
-    ndkVersion = "29.0.14206865"
+    ndkVersion = "30.0.16248370"
     buildToolsVersion = "37.0.0"
 
     buildFeatures {
